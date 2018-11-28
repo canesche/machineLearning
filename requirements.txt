@@ -1,0 +1,6 @@
+numpy>=1.15.4
+scipy>=0.13.3
+quandl>=3.4.5
+scikit-learn>=0.20.1
+pandas>=0.23.4
+jupyter>=1.0.0
