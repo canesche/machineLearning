@@ -1,5 +1,5 @@
 # Machine Learning
-Code and material made by me or other people about Machine learning
+Code and material made by me or by other people about Machine learning
 
 The goals this git is backup machine learning contents.
 
